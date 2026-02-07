@@ -2,7 +2,7 @@
 
 🎯 **Hedefim:** Cloud Solutions Architect olmak  
 🚀 Şu anda Python ve AWS üzerine çalışıyorum  
-📚 Sertifikasyon yolculuğum: MCSE, CCNA, AZ-900  
+📚 Sertifikasyon yolculuğum: MCSE, CCNA, AWS, AZ-900  
 
 ## 🛠️ İlgi Alanlarım
 - Python (temel ve cloud odaklı kullanım)
